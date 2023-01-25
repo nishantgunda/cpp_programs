@@ -11,4 +11,5 @@ int main()
         x/=10;
     }
     std::cout<<"reverse of "<<a<<" is "<<rev;
+    return 0;
 }
