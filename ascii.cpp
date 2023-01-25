@@ -5,4 +5,5 @@ int main()
     std::cout<<"Enter a character:";
     std::cin>>a;
     std::cout<<"Ascii value="<<(int)a;
+    return 0;
 }
